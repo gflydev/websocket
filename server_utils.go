@@ -1,5 +1,3 @@
-//go:build go1.20 || go1.21 || go1.22
-
 package websocket
 
 import (

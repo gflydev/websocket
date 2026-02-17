@@ -3,7 +3,6 @@
 // LICENSE file.
 
 //go:build appengine
-// +build appengine
 
 package websocket
 
