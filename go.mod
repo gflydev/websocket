@@ -6,7 +6,7 @@ require (
 	github.com/gflydev/core v1.18.1
 	github.com/klauspost/compress v1.18.4
 	github.com/valyala/fasthttp v1.69.0
-	golang.org/x/net v0.49.0
+	golang.org/x/net v0.50.0
 )
 
 require (
