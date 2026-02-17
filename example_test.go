@@ -5,11 +5,10 @@
 package websocket_test
 
 import (
+	"github.com/gflydev/websocket"
 	"log"
 	"net/http"
 	"testing"
-
-	"ws/websocket"
 )
 
 var (
